@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e862bd2b-1d43-4721-9fbf-58c7e3b09029" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/(attributes)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/(listfile)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/Scripts/blizzardL.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/Scripts/commonL.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/war3map.doo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/war3map.j" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/war3map.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/war3map.mmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/war3map.shd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/war3map.w3c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/war3map.w3e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/war3map.w3i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/war3map.w3r" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/war3map.wct" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/war3map.wpm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/war3map.wtg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/war3map.wts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/war3mapMap.blp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.w3x/war3mapUnits.doo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mpqtool.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OutCode.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wetest.w3x" afterDir="false" />
+    <list default="true" id="e862bd2b-1d43-4721-9fbf-58c7e3b09029" name="Default Changelist" comment="Работает сборка и запуск игры">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.lua" beforeDir="false" afterPath="$PROJECT_DIR$/build.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wetest.w3x" beforeDir="false" afterPath="$PROJECT_DIR$/wetest.w3x" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1640026575922</updated>
     </task>
+    <task id="LOCAL-00001" summary="Работает сборка и запуск игры">
+      <created>1640027498126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640027498126</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Работает сборка и запуск игры" />
+    <option name="LAST_COMMIT_MESSAGE" value="Работает сборка и запуск игры" />
   </component>
 </project>
